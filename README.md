@@ -1,3 +1,5 @@
+## This is a fork of nella/victor - the base package seems to be abandoned ##
+
 # Victor - for [Composer](https://getcomposer.org)
 
 [![Build Status](https://img.shields.io/travis/nella/victor/master.svg?style=flat-square)](https://travis-ci.org/nella/victor)
