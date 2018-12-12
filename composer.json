@@ -1,6 +1,6 @@
 {
-	"name": "nella/victor",
-	"description": "Version updates checker for your composer package requirements",
+	"name": "wernerdweight/victor",
+	"description": "Forked from nella/victor: Version updates checker for your composer package requirements",
 	"type": "project",
 	"keywords": ["Composer", "check", "checker", "version", "versions", "update", "updates", "package"],
 	"license": "MIT",
